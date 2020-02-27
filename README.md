@@ -7,7 +7,6 @@
 by Bardenet R., Doucet A., Holmes C. (2017).
 
 # The Team
-Four students from ENSIIE
 + **Kevin XU** - *Master 2 Data Science student* - [kevinxu-git](https://github.com/kevinxu-git)
 + **Pierre ADEIKALAM** - *Master 2 Data Science student*
 + **Guangyue CHEN** - *Master 2 Data Science student* 
