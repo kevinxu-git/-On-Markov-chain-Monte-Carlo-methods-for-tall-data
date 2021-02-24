@@ -1,4 +1,4 @@
-# On Markov chain Monte Carlo methods for tall data : Synthesis Notebook + presentation 
+# On Markov chain Monte Carlo methods for tall data : Synthesis Jupyter Notebook + presentation 
 > September-December 2020 : Master 2 Data Science at Ecole Polytechnique in France
 
 + Report on a research article realized for the validation of the course Bayesian learning for partially observed dynamical systems 
